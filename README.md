@@ -1,1 +1,1 @@
-# sorting-algorithm-efficiences
+# sortingAlgorithmEfficiencies
